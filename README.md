@@ -1,5 +1,5 @@
-# startupidea_protype
-this is protoype version 1
+# Startup_Idea_Prototype
+This is prototype version 1.
 
-#future plan
-this is prototype version still  left some Functionality and Also left at the integration of the LMM
+# Future_Plan
+This prototype version still has some functionality left, and it's also at the integration stage of the LMM.
