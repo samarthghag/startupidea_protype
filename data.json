@@ -1,0 +1,297 @@
+{
+  "subjects": {
+    "Psychology": {
+      "topics": ["What is Psychology?", "Theories of Learning", "Memory Basics"],
+      "notes": {
+        "What is Psychology?": {
+          "text": "Psychology is the scientific study of mind and behavior. It encompasses various aspects of conscious and unconscious experiences, thoughts, feelings, and behavior. The field applies empirical methods to understand individual and collective human behavior.",
+          "highlights": [
+            "Key term: Scientific study",
+            "Focus: Mind and behavior",
+            "Methods: Empirical research"
+          ]
+        },
+        "Theories of Learning": {
+          "text": "Learning theories explain how humans acquire, process, and retain knowledge. Major approaches include classical conditioning, operant conditioning, and social learning theory. Each theory provides unique insights into how learning occurs and how behavior can be modified.",
+          "highlights": [
+            "Key term: Conditioning",
+            "Focus: Knowledge acquisition",
+            "Types: Classical, operant, social"
+          ]
+        },
+        "Memory Basics": {
+          "text": "Memory is the process of encoding, storing, and retrieving information. The three main stages of memory are sensory memory, short-term memory, and long-term memory. Understanding memory processes is crucial for effective learning and retention.",
+          "highlights": [
+            "Key term: Memory stages",
+            "Focus: Information processing",
+            "Components: Encoding, storage, retrieval"
+          ]
+        }
+      },
+      "Video Lectures": {
+        "videos": {
+          "What is Psychology?": {
+            "url": "https://www.youtube.com/embed/vo4pMVb0R6M",
+            "title": "Introduction to Psychology: What is Psychology?",
+            "duration": "10:15"
+          },
+          "Theories of Learning": {
+            "url": "https://www.youtube.com/embed/qG2SwE_6uVM",
+            "title": "Learning Theories - Psychology",
+            "duration": "8:45"
+          },
+          "Memory Basics": {
+            "url": "https://www.youtube.com/embed/bSycdIx-C48",
+            "title": "How Memory Works",
+            "duration": "9:30"
+          }
+        },
+        "quizzes": {
+          "What is Psychology?": {
+            "questions": [
+              {
+                "q": "What are the main goals of psychology as a science?",
+                "options": [
+                  "To describe, explain, predict, and control behavior and mental processes",
+                  "To only treat mental illness",
+                  "To conduct experiments in laboratories",
+                  "To study brain anatomy"
+                ],
+                "answer": 0
+              },
+              {
+                "q": "Which research method was mentioned as fundamental to psychological science?",
+                "options": [
+                  "Scientific method",
+                  "Casual observation",
+                  "Personal experience",
+                  "Intuition"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          "Theories of Learning": {
+            "questions": [
+              {
+                "q": "What is the key principle of classical conditioning?",
+                "options": [
+                  "Learning through association of stimuli",
+                  "Learning through consequences",
+                  "Learning through observation",
+                  "Learning through insight"
+                ],
+                "answer": 0
+              },
+              {
+                "q": "Which learning theory emphasizes the role of reinforcement?",
+                "options": [
+                  "Operant conditioning",
+                  "Classical conditioning",
+                  "Social learning",
+                  "Cognitive learning"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          "Memory Basics": {
+            "questions": [
+              {
+                "q": "What are the three main stages of memory processing?",
+                "options": [
+                  "Encoding, Storage, Retrieval",
+                  "Input, Process, Output",
+                  "Learning, Remembering, Forgetting",
+                  "Short-term, Mid-term, Long-term"
+                ],
+                "answer": 0
+              },
+              {
+                "q": "How long can information typically stay in short-term memory?",
+                "options": [
+                  "15-30 seconds",
+                  "5-10 minutes",
+                  "1-2 hours",
+                  "24 hours"
+                ],
+                "answer": 0
+              }
+            ]
+          }
+        }
+      },
+      "quizzes": {
+        "What is Psychology?": {
+          "questions": [
+            {
+              "q": "What is the primary focus of psychology?",
+              "options": [
+                "The study of mind and behavior",
+                "The study of physical health",
+                "The study of social interactions",
+                "The study of mental illness only"
+              ],
+              "answer": 0
+            },
+            {
+              "q": "Which method is essential in psychological research?",
+              "options": [
+                "Personal opinions",
+                "Empirical methods",
+                "Intuitive reasoning",
+                "Philosophical debate"
+              ],
+              "answer": 1
+            },
+            {
+              "q": "Psychology studies both ___ and ___ experiences.",
+              "options": [
+                "Past, future",
+                "Good, bad",
+                "Conscious, unconscious",
+                "Physical, spiritual"
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      }
+    },
+    "Economics": {
+      "topics": ["Introduction to Economics", "Supply and Demand", "Market Structures"],
+      "notes": {
+        "Introduction to Economics": {
+          "text": "Economics is the study of how societies manage their scarce resources. It examines the production, distribution, and consumption of goods and services. The field is divided into microeconomics and macroeconomics.",
+          "highlights": [
+            "Key term: Scarcity",
+            "Focus: Resource management",
+            "Types: Micro and macro economics"
+          ]
+        },
+        "Supply and Demand": {
+          "text": "Supply and demand is a fundamental economic model explaining price determination in markets. It shows how the quantity supplied and quantity demanded interact to determine market equilibrium.",
+          "highlights": [
+            "Key term: Market equilibrium",
+            "Focus: Price determination",
+            "Components: Supply curve, demand curve"
+          ]
+        },
+        "Market Structures": {
+          "text": "Market structures describe different types of competition in markets, including perfect competition, monopolistic competition, oligopoly, and monopoly. Each structure has unique characteristics affecting market behavior.",
+          "highlights": [
+            "Key term: Competition types",
+            "Focus: Market behavior",
+            "Types: Perfect, monopolistic, oligopoly"
+          ]
+        }
+      },
+      "quizzes": {
+        "Introduction to Economics": {
+          "questions": [
+            {
+              "q": "What is the main focus of economics?",
+              "options": [
+                "Management of scarce resources",
+                "Stock market analysis",
+                "Business management",
+                "Government spending"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      }
+    },
+    "Mathematics": {
+      "topics": ["Calculus Basics", "Linear Algebra", "Statistics"],
+      "notes": {
+        "Calculus Basics": {
+          "text": "Calculus is the mathematical study of continuous change. It includes differential calculus, covering instantaneous rates of change, and integral calculus, dealing with the accumulation of quantities over time.",
+          "highlights": [
+            "Key term: Continuous change",
+            "Focus: Rates and accumulation",
+            "Types: Differential and integral"
+          ]
+        },
+        "Linear Algebra": {
+          "text": "Linear algebra is the branch of mathematics dealing with linear equations and functions. It involves vectors, matrices, and systems of linear equations, forming the basis for many advanced mathematical concepts.",
+          "highlights": [
+            "Key term: Linear equations",
+            "Focus: Vectors and matrices",
+            "Applications: Systems of equations"
+          ]
+        },
+        "Statistics": {
+          "text": "Statistics is the science of collecting, analyzing, and interpreting data. It includes descriptive statistics for summarizing data and inferential statistics for drawing conclusions from samples.",
+          "highlights": [
+            "Key term: Data analysis",
+            "Focus: Data interpretation",
+            "Types: Descriptive and inferential"
+          ]
+        }
+      },
+      "quizzes": {
+        "Calculus Basics": {
+          "questions": [
+            {
+              "q": "What are the two main branches of calculus?",
+              "options": [
+                "Differential and Integral",
+                "Addition and Subtraction",
+                "Algebra and Geometry",
+                "Linear and Nonlinear"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      }
+    },
+    "Programming": {
+      "topics": ["Python Fundamentals", "Web Development", "Data Structures"],
+      "notes": {
+        "Python Fundamentals": {
+          "text": "Python is a high-level, interpreted programming language known for its simplicity and readability. It supports multiple programming paradigms including procedural, object-oriented, and functional programming.",
+          "highlights": [
+            "Key term: High-level language",
+            "Focus: Code readability",
+            "Features: Multi-paradigm support"
+          ]
+        },
+        "Web Development": {
+          "text": "Web development involves creating websites and web applications. It includes front-end development using HTML, CSS, and JavaScript, and back-end development using server-side technologies and databases.",
+          "highlights": [
+            "Key term: Full-stack development",
+            "Focus: Web applications",
+            "Components: Front-end and back-end"
+          ]
+        },
+        "Data Structures": {
+          "text": "Data structures are specialized formats for organizing and storing data. Common structures include arrays, linked lists, trees, and hash tables, each optimized for specific operations and use cases.",
+          "highlights": [
+            "Key term: Data organization",
+            "Focus: Efficient storage",
+            "Types: Arrays, lists, trees"
+          ]
+        }
+      },
+      "quizzes": {
+        "Python Fundamentals": {
+          "questions": [
+            {
+              "q": "What type of programming language is Python?",
+              "options": [
+                "High-level interpreted",
+                "Low-level compiled",
+                "Assembly language",
+                "Machine code"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}
